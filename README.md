@@ -42,3 +42,4 @@ Tracks **stamina** and **strength** with XP/levels, steroid injections, gym work
      PRIMARY KEY (`identifier`)
    );
 
+An sql already comes with the file
