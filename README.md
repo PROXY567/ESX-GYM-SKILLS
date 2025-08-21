@@ -49,6 +49,10 @@ Membership is required to exercise.
 
 Weights and chin-ups locations can be moved via config.
 
+## Dependencies 
+
+https://forum.cfx.re/t/free-mlo-los-santos-gym/5312943
+
 This ZIP includes all old and new features, fully compatible with ESX + ox_inventory.
 ## Installation
 1. Place folder `proxy-skill-system-esx-gym` into your `resources/`.
